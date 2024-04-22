@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'end2endclfyolo',
+    name = 'wasteDetection',
     version= '0.0.0',
     author= 'Nikita Aksjonov',
     author_email= 'nickusevich1@gmail.com',
